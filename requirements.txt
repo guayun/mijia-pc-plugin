@@ -1,0 +1,6 @@
+pystray
+Pillow
+pycaw
+comtypes
+paho-mqtt
+win11toast
